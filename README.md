@@ -15,4 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
- ## here some Example
+## exmaple image here
+![BMi Calculator sample](https://github.com/fokrul511/BMI-Calculator/blob/main/image%20example/ui.png)
+![BMi Calculator Result](https://github.com/fokrul511/BMI-Calculator/blob/main/image%20example/result.png)
