@@ -32,10 +32,10 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: bgColor,
       appBar: AppBar(title: const Text('BMI Calculator')),
       body: SingleChildScrollView(
         child: Container(
-          color: bgColor,
           child: Center(
             child: Container(
               width: 300,
